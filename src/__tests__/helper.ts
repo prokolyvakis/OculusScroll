@@ -6,7 +6,7 @@ test("stringifyWebgazerHandlerAction(WebgazerHandlerAction.ENABLE) == enable act
 });
 
 test("stringifyWebgazerHandlerAction(WebgazerHandlerAction.ENABLE) != invalid action", () => {
-  expect(stringifyWebgazerHandlerAction(WebgazerHandlerAction.ENABLE)).not.toBe("enable action");
+  expect(stringifyWebgazerHandlerAction(WebgazerHandlerAction.ENABLE)).not.toBe("invalid action");
 });
 
 test("stringifyWebgazerHandlerAction(WebgazerHandlerAction.INVALID_ACTION) == invalid action", () => {
