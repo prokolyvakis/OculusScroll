@@ -6,6 +6,8 @@
 
 A Chrome extension that allows **webpage scrolling** based on **eye tracking**. It is a [React](https://reactjs.org/)-based project written in [TypeScript](https://www.typescriptlang.org/). It makes use of the [WebGazer.js](https://webgazer.cs.brown.edu/) eye tracking library.
 
+![Preview](./misc/OculusScrollPreview.gif)
+
 ## Build the repository
 
 * Prerequisites:
