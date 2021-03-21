@@ -1,6 +1,6 @@
 # OculusScroll - Chrome Extension 
 
-![build](https://github.com/prokolyvakis/OculusScroll/workflows/build/badge.svg)
+[![build](https://github.com/prokolyvakis/OculusScroll/actions/workflows/build.yml/badge.svg?event=push)](https://github.com/prokolyvakis/OculusScroll/actions/workflows/build.yml)
 
 > _**oculus**_ (Latin) / _**eye**_ (English)
 
